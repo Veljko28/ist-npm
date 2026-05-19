@@ -1,0 +1,2 @@
+NPM: https://www.npmjs.com/package/nrt223-zadatak1
+GitHub: https://github.com/Veljko28/ist-npm
