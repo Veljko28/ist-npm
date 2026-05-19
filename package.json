@@ -1,5 +1,5 @@
 {
-  "name": "nrt223.zadatak1",
+  "name": "nrt223-zadatak1",
   "version": "1.0.0",
   "description": "Node.js aplikacija koja koristi mathjs za izracunavanje 5 matematickih izraza",
   "main": "index.js",
