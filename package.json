@@ -1,0 +1,20 @@
+{
+  "name": "nrt223.zadatak1",
+  "version": "1.0.0",
+  "description": "Node.js aplikacija koja koristi mathjs za izracunavanje 5 matematickih izraza",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node index.js"
+  },
+  "keywords": [
+    "mathjs",
+    "viser",
+    "nrt223"
+  ],
+  "author": "nrt223",
+  "license": "ISC",
+  "dependencies": {
+    "mathjs": "^15.2.0"
+  }
+}
